@@ -1,0 +1,11 @@
+.text {
+  width: 300px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.image {
+  height: 300px;
+  object-fit: scale-down;
+}
